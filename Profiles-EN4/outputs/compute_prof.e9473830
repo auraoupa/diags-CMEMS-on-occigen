@@ -1,0 +1,56 @@
+script/NATL60GS-CJM165-282_script.ksh : ligne 3 :  7753 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-natl60.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_GS_y2012-2013/NATL60-CJM165_GS_y2012-2013_282.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_GS_y2012-2013/NATL60-CJM165/GS/' --reg 'GS' 'CASE' --nz 'NATL60-CJM165_GS_y2012-2013'
+script/NATL60GS-CJM165-227_script.ksh : ligne 3 : 34074 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-natl60.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_GS_y2012-2013/NATL60-CJM165_GS_y2012-2013_227.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_GS_y2012-2013/NATL60-CJM165/GS/' --reg 'GS' 'CASE' --nz 'NATL60-CJM165_GS_y2012-2013'
+script/NATL60GS-CJM165-152_script.ksh : ligne 3 : 35864 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-natl60.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_GS_y2012-2013/NATL60-CJM165_GS_y2012-2013_152.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_GS_y2012-2013/NATL60-CJM165/GS/' --reg 'GS' 'CASE' --nz 'NATL60-CJM165_GS_y2012-2013'
+script/NATL60GS-CJM165-188_script.ksh : ligne 3 : 35863 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-natl60.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_GS_y2012-2013/NATL60-CJM165_GS_y2012-2013_188.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_GS_y2012-2013/NATL60-CJM165/GS/' --reg 'GS' 'CASE' --nz 'NATL60-CJM165_GS_y2012-2013'
+slurmstepd: error: Step 9473830.0 exceeded memory limit (121140124 > 120832000), being killed
+slurmstepd: error: *** STEP 9473830.0 ON n2098 CANCELLED AT 2020-02-03T08:20:36 ***
+slurmstepd: error: Exceeded job memory limit
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+srun: error: n2111: tasks 13,49,85,121,157,193,229,265,301,337,373,409,445,481,517,553: Killed
+srun: Terminating job step 9473830.0
+srun: error: n2187: tasks 35,71,107,143,179,215,251,287,323,359,395,431,467,503,539: Killed
+srun: error: n2172: tasks 20,56,92,128,164,200,236,272,308,344,380,416,452,488,524,560: Killed
+srun: error: n2112: tasks 14,50,86,122,158,194,230,266,302,338,374,410,446,482,518,554: Killed
+srun: error: n2176: tasks 24,60,96,132,168,204,240,276,312,348,384,420,456,492,528: Killed
+srun: error: n2174: tasks 22,58,94,130,166,202,238,274,310,346,382,418,454,490,526,562: Out Of Memory
+srun: error: n2114: tasks 16,52,88,124,160,196,232,268,304,340,376,412,448,484,520,556: Killed
+srun: error: n2098: tasks 0,36,72,108,144,180,216,252,288,324,360,396,432,468,504,540: Killed
+srun: error: n2182: tasks 30,66,102,138,174,210,246,282,318,354,390,426,462,498,534: Killed
+srun: error: n2184: tasks 32,68,104,140,176,212,248,284,320,356,392,428,464,500,536: Killed
+srun: error: n2185: tasks 33,69,105,141,177,213,249,285,321,357,393,429,465,501,537: Killed
+srun: error: n2186: tasks 34,70,106,142,178,214,250,286,322,358,394,430,466,502,538: Killed
+srun: error: n2115: tasks 17,53,89,125,161,197,233,269,305,341,377,413,449,485,521,557: Killed
+srun: error: n2171: tasks 19,55,91,127,163,199,235,271,307,343,379,415,451,487,523,559: Killed
+srun: error: n2110: tasks 12,48,84,120,156,192,228,264,300,336,372,408,444,480,516,552: Killed
+srun: error: n2103: tasks 5,41,77,113,149,185,221,257,293,329,365,401,437,473,509,545: Killed
+srun: error: n2099: tasks 1,37,73,109,145,181,217,253,289,325,361,397,433,469,505,541: Killed
+srun: error: n2100: tasks 2,38,74,110,146,182,218,254,290,326,362,398,434,470,506,542: Killed
+srun: error: n2175: tasks 23,59,95,131,167,203,239,275,311,347,383,419,455,491,527: Killed
+srun: error: n2106: tasks 8,44,80,116,152,188,224,260,296,332,368,404,440,476,512,548: Killed
+srun: error: n2113: tasks 15,51,87,123,159,195,231,267,303,339,375,411,447,483,519,555: Killed
+srun: error: n2170: tasks 18,54,90,126,162,198,234,270,306,342,378,414,450,486,522,558: Killed
+srun: error: n2107: tasks 9,45,81,117,153,189,225,261,297,333,369,405,441,477,513,549: Killed
+srun: error: n2109: tasks 11,47,83,119,155,191,227,263,299,335,371,407,443,479,515,551: Killed

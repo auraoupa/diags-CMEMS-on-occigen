@@ -1,0 +1,83 @@
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 390, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 51, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 137, in model_mean_percent_profile
+    model_level[z]=lev[0]
+ValueError: setting an array element with a sequence.
+slurmstepd: error: Step 9003043.0 exceeded memory limit (121712132 > 120832000), being killed
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: *** STEP 9003043.0 ON n2062 CANCELLED AT 2020-01-30T13:35:14 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+srun: error: n2138: tasks 22,58,94,130,166,202,238,274,310,346,382,418,454,490,526,562: Out Of Memory
+srun: Terminating job step 9003043.0
+srun: error: n2062: tasks 0,36,72,108,144,180,216,252,288,324,360,396,432,468,504,540: Killed
+srun: error: n2065: tasks 3,39,75,111,147,183,219,255,291,327,363,399,435,471,507,543: Killed
+srun: error: n2063: tasks 1,37,73,109,145,181,217,253,289,325,361,397,433,469,505,541: Killed
+srun: error: n2150: tasks 34,70,106,142,178,214,250,286,322,358,394,430,466,502,538: Killed
+srun: error: n2146: tasks 30,66,102,138,174,210,246,282,318,354,390,426,462,498,534: Killed

@@ -1,0 +1,1053 @@
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:41815'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:39375'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:43717'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:37158'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:35127'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:44463'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:38773'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:43651'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:34780'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:36833'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:45220'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:34095'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:42026'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:46727'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:33347'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:42545'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:37481'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:41187'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:37320'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:42460'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:38837'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:41963'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:37359'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:43933'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:39199'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:41597'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:43753'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.6.157:40628'
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:36704
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:35071
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:36704
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:35071
+distributed.worker - INFO -              nanny at:         172.30.6.157:45220
+distributed.worker - INFO -              nanny at:         172.30.6.157:37320
+distributed.worker - INFO -              bokeh at:         172.30.6.157:45645
+distributed.worker - INFO -              bokeh at:         172.30.6.157:39310
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:44511
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:44511
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -              nanny at:         172.30.6.157:36833
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -              bokeh at:         172.30.6.157:33305
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-avam1brs
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-sy4ellqg
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2n16t8i_
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:39627
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:39627
+distributed.worker - INFO -              nanny at:         172.30.6.157:39199
+distributed.worker - INFO -              bokeh at:         172.30.6.157:42931
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-uz651bpt
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:37538
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:37538
+distributed.worker - INFO -              nanny at:         172.30.6.157:39375
+distributed.worker - INFO -              bokeh at:         172.30.6.157:44574
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-8_3tpvwd
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:42456
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:42456
+distributed.worker - INFO -              nanny at:         172.30.6.157:38773
+distributed.worker - INFO -              bokeh at:         172.30.6.157:45151
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-95u89luo
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:34673
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:34673
+distributed.worker - INFO -              nanny at:         172.30.6.157:41815
+distributed.worker - INFO -              bokeh at:         172.30.6.157:38992
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-57guh002
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:42434
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:42434
+distributed.worker - INFO -              nanny at:         172.30.6.157:37158
+distributed.worker - INFO -              bokeh at:         172.30.6.157:39706
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-99i0rooa
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:33701
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:33701
+distributed.worker - INFO -              nanny at:         172.30.6.157:38837
+distributed.worker - INFO -              bokeh at:         172.30.6.157:46523
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-tj40rmx7
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:41846
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:41846
+distributed.worker - INFO -              nanny at:         172.30.6.157:43753
+distributed.worker - INFO -              bokeh at:         172.30.6.157:43301
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-pwerbk09
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:42428
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:42428
+distributed.worker - INFO -              nanny at:         172.30.6.157:42026
+distributed.worker - INFO -              bokeh at:         172.30.6.157:45293
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-lmj42w6e
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:43202
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:43202
+distributed.worker - INFO -              nanny at:         172.30.6.157:41187
+distributed.worker - INFO -              bokeh at:         172.30.6.157:38584
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1ti6hnie
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:35608
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:35608
+distributed.worker - INFO -              nanny at:         172.30.6.157:35127
+distributed.worker - INFO -              bokeh at:         172.30.6.157:39573
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-nwpcusm4
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:39679
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:39679
+distributed.worker - INFO -              nanny at:         172.30.6.157:40628
+distributed.worker - INFO -              bokeh at:         172.30.6.157:43286
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-moyod6l1
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:36552
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:36552
+distributed.worker - INFO -              nanny at:         172.30.6.157:33347
+distributed.worker - INFO -              bokeh at:         172.30.6.157:35297
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-fx5jv8ga
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:43609
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:43609
+distributed.worker - INFO -              nanny at:         172.30.6.157:34780
+distributed.worker - INFO -              bokeh at:         172.30.6.157:33154
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6x02nbpo
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:46812
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:46812
+distributed.worker - INFO -              nanny at:         172.30.6.157:37359
+distributed.worker - INFO -              bokeh at:         172.30.6.157:45090
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-rhk895a8
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:38015
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:38015
+distributed.worker - INFO -              nanny at:         172.30.6.157:43933
+distributed.worker - INFO -              bokeh at:         172.30.6.157:36265
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-u64qhjsj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:34692
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:34692
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:34103
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:34103
+distributed.worker - INFO -              nanny at:         172.30.6.157:41597
+distributed.worker - INFO -              bokeh at:         172.30.6.157:36189
+distributed.worker - INFO -              nanny at:         172.30.6.157:34095
+distributed.worker - INFO -              bokeh at:         172.30.6.157:39208
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ysxeaebu
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-pyufaa21
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:43143
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:43143
+distributed.worker - INFO -              nanny at:         172.30.6.157:41963
+distributed.worker - INFO -              bokeh at:         172.30.6.157:45190
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-cmc38luf
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:40871
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:40871
+distributed.worker - INFO -              nanny at:         172.30.6.157:37481
+distributed.worker - INFO -              bokeh at:         172.30.6.157:46518
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-1xf0kobv
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:45915
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:45915
+distributed.worker - INFO -              nanny at:         172.30.6.157:42460
+distributed.worker - INFO -              bokeh at:         172.30.6.157:45920
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zz78_bq8
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:43242
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:43242
+distributed.worker - INFO -              nanny at:         172.30.6.157:44463
+distributed.worker - INFO -              bokeh at:         172.30.6.157:35970
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4l3qddeb
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:35010
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:35010
+distributed.worker - INFO -              nanny at:         172.30.6.157:43651
+distributed.worker - INFO -              bokeh at:         172.30.6.157:45295
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-yu7wsahp
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:34897
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:34897
+distributed.worker - INFO -              nanny at:         172.30.6.157:46727
+distributed.worker - INFO -              bokeh at:         172.30.6.157:40742
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-nalgy3ss
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:39494
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:39494
+distributed.worker - INFO -              nanny at:         172.30.6.157:42545
+distributed.worker - INFO -              bokeh at:         172.30.6.157:45677
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-ixhoccno
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.6.157:36871
+distributed.worker - INFO -          Listening to:   tcp://172.30.6.157:36871
+distributed.worker - INFO -              nanny at:         172.30.6.157:43717
+distributed.worker - INFO -              bokeh at:         172.30.6.157:39769
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4jdosltu
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Event loop was unresponsive in Worker for 163.34s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 162.86s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 163.33s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 163.15s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 163.33s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.core - INFO - Event loop was unresponsive in Worker for 162.86s.  This is often caused by long-running GIL-holding functions or moving large chunks of data. This can cause timeouts and instability.
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023b208c8>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-1.2391761e-04,  4.7140694e-03,  9.8183472e-03, ...,
+          -1.7812012e-02, -1.8302351e-02, -1.8771414e-02],
+         [-7.4461271e-04,  3.4377237e-03,  7.7843447e-03, ...,
+          -2.4984242e-02, -2.5514923e-02, -2.6099697e-02],
+         [-6.9873309e-04,  2.9055076e-03,  6.5749763e-03, ...,
+          -3.2141373e-02, -3.2656580e-02, -3.3309024e-02],
+         ...,
+         [ 1.6314199e-02,  4.9162116e-03, -5.9680473e-03, ...,
+          -3.0009544e-01, -3.1066841e-01, -3.1795335e-01],
+         [ 1.3802755e-02,  2.4502310e-03, -8.3948672e-03, ...,
+          -3.0770642e-01, -3.1638852e-01, -3.2157537e-01],
+         [ 1.1150335e-02, -1.2460470e-04, -1.0922239e-02, ...,
+          -3.1390107e-01, -3.2034814e-01, -3.2305807e-01]]]],
+      dtype=float32), array([[[[-0.01916277, -0.0195084 , -0.02018464, ..., -0.14586553,
+   
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023f65a60>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.08682416, -0.09008303, -0.09308261, ..., -0.17086709,
+          -0.17149809, -0.17297824],
+         [-0.08906554, -0.09259681, -0.0960713 , ..., -0.17811467,
+          -0.17889616, -0.1803182 ],
+         [-0.09088553, -0.09457853, -0.09832302, ..., -0.1843885 ,
+          -0.18531659, -0.18665466],
+         ...,
+         [-0.08212512, -0.08923527, -0.0968764 , ..., -0.03739323,
+          -0.02925643, -0.0216472 ],
+         [-0.07343668, -0.08028154, -0.08796919, ..., -0.03556225,
+          -0.02768926, -0.02035189],
+         [-0.06363804, -0.07059841, -0.07801327, ..., -0.0337207 ,
+          -0.02603449, -0.0185434 ]]]], dtype=float32), array([[[[-0.17477933, -0.17595969, -0.17606491, ...,  0.18649861,
+           0.20822583,  0.22878334],
+         [-0.18175714, -0.18258585, -0.18262883, ...,  0.1699074 ,
+           0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023f091e0>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.08113457, -0.0817522 , -0.08153829, ..., -0.06565681,
+          -0.06932297, -0.07595346],
+         [-0.08715679, -0.08845921, -0.08899343, ..., -0.07674229,
+          -0.08268261, -0.09157125],
+         [-0.0929167 , -0.09480121, -0.09594307, ..., -0.09004356,
+          -0.09842852, -0.10895569],
+         ...,
+         [-0.09424286, -0.09338957, -0.09222317, ..., -0.06864226,
+          -0.06261919, -0.05571334],
+         [-0.09497444, -0.09474374, -0.09422168, ..., -0.06277235,
+          -0.05672361, -0.04948211],
+         [-0.09591775, -0.09647518, -0.09678893, ..., -0.05686826,
+          -0.05041752, -0.04245182]]]], dtype=float32), array([[[[-0.08511323, -0.09528165, -0.10574717, ...,  0.14262709,
+           0.15976089,  0.1806101 ],
+         [-0.10183663, -0.1117285 , -0.12120049, ...,  0.12585069,
+           0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023aeb730>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[ 0.0593885 ,  0.06338266,  0.0671318 , ..., -0.08712887,
+          -0.09169346, -0.09614281],
+         [ 0.05950883,  0.06311983,  0.06638137, ..., -0.09203655,
+          -0.09599125, -0.09983654],
+         [ 0.05954161,  0.06263432,  0.06518997, ..., -0.0963674 ,
+          -0.09970099, -0.10311781],
+         ...,
+         [ 0.03732942,  0.03351735,  0.02686382, ..., -0.2819565 ,
+          -0.28678676, -0.28905022],
+         [ 0.0274209 ,  0.02198722,  0.01378252, ..., -0.28861955,
+          -0.29204157, -0.29254737],
+         [ 0.01273791,  0.00536565, -0.00430049, ..., -0.29444632,
+          -0.29623625, -0.29494235]]]], dtype=float32), array([[[[-0.10041773, -0.10490214, -0.10992982, ..., -0.05211441,
+          -0.07350175, -0.10176092],
+         [-0.10381953, -0.10839842, -0.11387482, ..., -0.0375744 ,
+          -0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023bacbf8>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[ 0.02580215,  0.03175901,  0.03709903, ..., -0.05111356,
+          -0.05311948, -0.05697904],
+         [ 0.02366133,  0.02950525,  0.0348704 , ..., -0.0577877 ,
+          -0.06057048, -0.06516263],
+         [ 0.02088685,  0.02631045,  0.03139931, ..., -0.06473447,
+          -0.06837104, -0.07354196],
+         ...,
+         [ 0.02598827,  0.01701521,  0.00778518, ..., -0.28078073,
+          -0.28187585, -0.27958453],
+         [ 0.02626691,  0.01702299,  0.00734663, ..., -0.28077495,
+          -0.28015408, -0.2763881 ],
+         [ 0.02651531,  0.01686109,  0.00661051, ..., -0.28013045,
+          -0.27799866, -0.2728901 ]]]], dtype=float32), array([[[[-0.06222851, -0.06844109, -0.07496469, ..., -0.12064764,
+          -0.15614636, -0.18686093],
+         [-0.07075858, -0.07694512, -0.08313072, ..., -0.12188184,
+          -0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023ce7510>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-5.7961330e-02, -5.8030296e-02, -5.8139928e-02, ...,
+          -4.0266901e-02, -4.1287985e-02, -4.2433318e-02],
+         [-5.8240227e-02, -5.8245201e-02, -5.8281880e-02, ...,
+          -4.1068740e-02, -4.1992567e-02, -4.3033730e-02],
+         [-5.8643408e-02, -5.8600951e-02, -5.8571592e-02, ...,
+          -4.2147286e-02, -4.2963468e-02, -4.3893471e-02],
+         ...,
+         [-3.0178189e-01, -2.9253706e-01, -2.8395262e-01, ...,
+          -2.2492358e-02, -2.2431251e-02, -2.1347474e-02],
+         [ 9.5933477e-24,  3.0641210e-23,  1.8351905e-23, ...,
+          -1.5048923e-23, -3.2896724e-24,  5.3155101e-23],
+         [ 0.0000000e+00,  0.0000000e+00,  0.0000000e+00, ...,
+           0.0000000e+00,  0.0000000e+00,  0.0000000e+00]]]],
+      dtype=float32), array([[[[-4.36918214e-02, -4.50409055e-02, -4.64494675e-02, ...,
+    
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023eed1e0>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-6.02701269e-02, -6.08370192e-02, -6.14237189e-02, ...,
+          -3.88240665e-02, -3.74108963e-02, -3.61684598e-02],
+         [-6.07932545e-02, -6.12838045e-02, -6.18077777e-02, ...,
+          -3.90429944e-02, -3.77410799e-02, -3.66046801e-02],
+         [-6.14173636e-02, -6.18217140e-02, -6.22760281e-02, ...,
+          -3.97870243e-02, -3.85580882e-02, -3.74811999e-02],
+         ...,
+         [-3.26047421e-01, -3.27404886e-01, -3.28861803e-01, ...,
+          -1.14217915e-01, -1.13264158e-01, -1.11140333e-01],
+         [-1.50955350e-23, -3.89550677e-24, -2.35749172e-23, ...,
+          -9.09223172e-24, -1.85860899e-23, -3.34539653e-22],
+         [ 0.00000000e+00,  0.00000000e+00,  0.00000000e+00, ...,
+           0.00000000e+00,  0.00000000e+00,  0.00000000e+00]]]],
+      dtype=float32), array([[[[-3.5144728e-02, -3.43846
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023b13598>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[ 0.19144371,  0.19848979,  0.20568556, ...,  0.03595012,
+           0.0332448 ,  0.03164021],
+         [ 0.1934679 ,  0.20016329,  0.20645873, ...,  0.03851184,
+           0.03578534,  0.0343098 ],
+         [ 0.1922925 ,  0.1967762 ,  0.19923894, ...,  0.04124973,
+           0.038405  ,  0.03700206],
+         ...,
+         [ 0.11404664,  0.10593127,  0.09830488, ..., -0.07271805,
+          -0.07765805, -0.08177764],
+         [ 0.12711985,  0.12168433,  0.11498746, ..., -0.08558863,
+          -0.08984427, -0.09335556],
+         [ 0.13737057,  0.13536121,  0.13118626, ..., -0.09427608,
+          -0.09781152, -0.10055497]]]], dtype=float32), array([[[[ 0.03173919,  0.03253457,  0.03142736, ...,  0.01871553,
+           0.01876268,  0.01877647],
+         [ 0.03459449,  0.03551011,  0.03423584, ...,  0.02357295,
+           0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023b0b0d0>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.01241845, -0.01067158, -0.00896057, ...,  0.02919745,
+           0.0214013 ,  0.01418416],
+         [-0.01160281, -0.01006738, -0.0085267 , ...,  0.02704739,
+           0.01921316,  0.01226579],
+         [-0.01050268, -0.00909848, -0.00766464, ...,  0.02471192,
+           0.01707494,  0.01050553],
+         ...,
+         [-0.04165028, -0.0407228 , -0.03979233, ..., -0.04052899,
+          -0.04388019, -0.04688768],
+         [-0.04749704, -0.04666655, -0.04573868, ..., -0.04794429,
+          -0.05151142, -0.0548834 ],
+         [-0.05186495, -0.05138953, -0.05074194, ..., -0.05503798,
+          -0.05890221, -0.06275514]]]], dtype=float32), array([[[[ 0.00819681,  0.0031731 , -0.00127205, ..., -0.08397746,
+          -0.081715  , -0.07826065],
+         [ 0.00660766,  0.00180008, -0.00254683, ..., -0.08476356,
+          -0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023ec6bf8>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[0.0047086 , 0.00431979, 0.00413108, ..., 0.02611786,
+          0.02711784, 0.02807006],
+         [0.01100726, 0.01067434, 0.01050691, ..., 0.02727176,
+          0.02821979, 0.02916806],
+         [0.01594906, 0.01585018, 0.01583548, ..., 0.02845981,
+          0.02935052, 0.03026137],
+         ...,
+         [0.01415349, 0.01423881, 0.0146439 , ..., 0.04929695,
+          0.04076249, 0.03205873],
+         [0.01387525, 0.01408419, 0.01462435, ..., 0.04010011,
+          0.03161936, 0.02304208],
+         [0.01400137, 0.01429774, 0.01489816, ..., 0.03006946,
+          0.02180317, 0.01352884]]]], dtype=float32), array([[[[ 0.02903873,  0.0300324 ,  0.03106215, ...,  0.09183609,
+           0.10195452,  0.11200755],
+         [ 0.0301424 ,  0.03112569,  0.03212309, ...,  0.08905365,
+           0.09843881,  0.10806572],
+         [ 0
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023caf8c8>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-4.4351514e-02, -4.0823791e-02, -3.7221078e-02, ...,
+           4.8231822e-02,  4.9614500e-02,  5.0374679e-02],
+         [-4.0969178e-02, -3.7578616e-02, -3.4098770e-02, ...,
+           5.5535704e-02,  5.6951631e-02,  5.7677973e-02],
+         [-3.7244614e-02, -3.4051470e-02, -3.0682974e-02, ...,
+           6.2858105e-02,  6.4164616e-02,  6.4704731e-02],
+         ...,
+         [ 1.2936798e-04,  4.9867593e-03,  1.1665026e-02, ...,
+          -1.5168574e-01, -1.5752423e-01, -1.6158234e-01],
+         [-7.1835174e-04,  4.8681628e-03,  1.2335707e-02, ...,
+          -1.6141109e-01, -1.6513802e-01, -1.6644734e-01],
+         [-1.2523880e-03,  5.0222967e-03,  1.3121345e-02, ...,
+          -1.6786219e-01, -1.6925557e-01, -1.6806525e-01]]]],
+      dtype=float32), array([[[[ 0.05041821,  0.04969429,  0.04816293, ...,  0.05934206,
+   
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023c98bf8>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-3.1869125e-02, -3.0657321e-02, -2.9664047e-02, ...,
+          -3.4060129e-03, -9.4027072e-04,  1.6183931e-03],
+         [-3.2553777e-02, -3.1390574e-02, -3.0360162e-02, ...,
+          -2.2588614e-03, -2.8452132e-05,  2.2484760e-03],
+         [-3.3149991e-02, -3.2063715e-02, -3.1028848e-02, ...,
+          -1.3768325e-03,  6.4887916e-04,  2.6935961e-03],
+         ...,
+         [-4.8300974e-02, -4.6768114e-02, -4.7389768e-02, ...,
+           2.1987569e-02,  2.1275438e-02,  2.0003710e-02],
+         [-8.4844813e-02, -8.2870424e-02, -8.0786891e-02, ...,
+          -8.3082430e-03, -8.2989195e-03, -8.3200615e-03],
+         [ 0.0000000e+00,  0.0000000e+00,  0.0000000e+00, ...,
+           0.0000000e+00,  0.0000000e+00,  0.0000000e+00]]]],
+      dtype=float32), array([[[[ 0.00421359,  0.00678656,  0.00928231, ...,  0.        ,
+   
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023c42378>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.08654856, -0.09242434, -0.09810016, ..., -0.10341825,
+          -0.10563672, -0.10816099],
+         [-0.08708002, -0.09285419, -0.09852704, ..., -0.10110371,
+          -0.10369431, -0.10653521],
+         [-0.08700782, -0.09256627, -0.09811128, ..., -0.09903549,
+          -0.10183637, -0.10480244],
+         ...,
+         [-0.0130909 , -0.01180108, -0.01104973, ..., -0.03739421,
+          -0.02944437, -0.02135763],
+         [-0.00640243, -0.0043048 , -0.00240755, ..., -0.02879216,
+          -0.02166945, -0.01412334],
+         [-0.00113601,  0.00245315,  0.00509916, ..., -0.02089714,
+          -0.01461647, -0.00856165]]]], dtype=float32), array([[[[-0.11052833, -0.11259329, -0.1142033 , ...,  0.1754149 ,
+           0.18658267,  0.19734773],
+         [-0.10907289, -0.11112446, -0.11250291, ...,  0.1650819 ,
+           0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023e8b510>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.07510037, -0.07331377, -0.07288031, ..., -0.09397395,
+          -0.0849865 , -0.07575645],
+         [-0.07712367, -0.0756087 , -0.0756615 , ..., -0.088489  ,
+          -0.07940363, -0.07024592],
+         [-0.07921188, -0.07818059, -0.07880569, ..., -0.08330837,
+          -0.07425994, -0.0653543 ],
+         ...,
+         [-0.02188527, -0.02233386, -0.02292342, ...,  0.00656755,
+           0.01185908,  0.01565343],
+         [-0.01837664, -0.01883321, -0.0194845 , ...,  0.00601088,
+           0.0109637 ,  0.01441545],
+         [-0.01506219, -0.01530742, -0.01595019, ...,  0.00530673,
+           0.00984177,  0.0129155 ]]]], dtype=float32), array([[[[-0.06724657, -0.0610702 , -0.05876388, ..., -0.18628956,
+          -0.18663031, -0.18675183],
+         [-0.06221814, -0.05690483, -0.05553097, ..., -0.1868588 ,
+          -0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023f49730>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.046511  , -0.04678838, -0.04697148, ...,  0.00524294,
+           0.00682504,  0.00817088],
+         [-0.04680425, -0.04704498, -0.04715976, ...,  0.00493163,
+           0.00634867,  0.00752711],
+         [-0.04709795, -0.0472943 , -0.04733438, ...,  0.00483892,
+           0.00607874,  0.00708187],
+         ...,
+         [-0.0921146 , -0.08929775, -0.08773336, ...,  0.02301093,
+           0.02303219,  0.02227381],
+         [-0.09259634, -0.09033479, -0.08794107, ...,  0.00264727,
+           0.00284455,  0.00299724],
+         [ 0.        ,  0.        ,  0.        , ...,  0.        ,
+           0.        ,  0.        ]]]], dtype=float32), array([[[[0.00927325, 0.01014399, 0.01081663, ..., 0.        ,
+          0.        , 0.        ],
+         [0.00847159, 0.00920746, 0.00977718, ..., 0.        ,
+          0.        , 0
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023c437b8>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.04645395, -0.04844017, -0.0488404 , ..., -0.01014788,
+          -0.005789  , -0.00124378],
+         [-0.04637275, -0.04859879, -0.04883812, ..., -0.0236419 ,
+          -0.02057519, -0.01693492],
+         [-0.04629521, -0.04883619, -0.04916418, ..., -0.03671112,
+          -0.03454983, -0.03183474],
+         ...,
+         [ 0.07055174,  0.07574253,  0.07954028, ..., -0.03670932,
+          -0.03719563, -0.03839019],
+         [ 0.06590355,  0.07182667,  0.07637744, ..., -0.02933582,
+          -0.0284229 , -0.02880173],
+         [ 0.06060714,  0.06717484,  0.07245513, ..., -0.02350894,
+          -0.02107292, -0.01985724]]]], dtype=float32), array([[[[ 0.00354662,  0.008239  ,  0.01273648, ..., -0.0241867 ,
+          -0.02561947, -0.02679354],
+         [-0.01303274, -0.00916133, -0.0051175 , ..., -0.02288123,
+          -0.
+kwargs:    {}
+Exception: OSError("Timed out trying to connect to 'tcp://172.30.100.1:40264' after 3 s: connect() didn't finish in time")
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023cea510>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[ 0.00688833,  0.00735668,  0.00805339, ...,  0.00848228,
+           0.00117956, -0.00614453],
+         [ 0.00835893,  0.00876443,  0.0095787 , ...,  0.00152378,
+          -0.00534146, -0.01219518],
+         [ 0.00919852,  0.00972041,  0.01081826, ..., -0.00512139,
+          -0.01152897, -0.01785291],
+         ...,
+         [ 0.01411659,  0.01154194,  0.00903953, ..., -0.07138611,
+          -0.06997298, -0.06786254],
+         [ 0.0160516 ,  0.01308607,  0.01017221, ..., -0.07366976,
+          -0.07192028, -0.06959989],
+         [ 0.01824223,  0.01500255,  0.01177784, ..., -0.07589046,
+          -0.07385325, -0.07135569]]]], dtype=float32), array([[[[-0.01316623, -0.01941708, -0.02445112, ...,  0.01256546,
+           0.01297591,  0.0132563 ],
+         [-0.01862265, -0.02411955, -0.02826126, ...,  0.01905229,
+           0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023af3950>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[ 0.025873  ,  0.01536759,  0.01098522, ...,  0.02088955,
+           0.02104034,  0.02069398],
+         [ 0.03169447,  0.02118301,  0.01598671, ...,  0.02451038,
+           0.02451346,  0.02389809],
+         [ 0.03737749,  0.02694429,  0.02103054, ...,  0.02798709,
+           0.02782782,  0.02691231],
+         ...,
+         [ 0.18678327,  0.17771019,  0.16901104, ..., -0.04299902,
+          -0.04121395, -0.03819302],
+         [ 0.19618209,  0.19139299,  0.18171316, ..., -0.04216589,
+          -0.04156299, -0.03951057],
+         [ 0.19053718,  0.1980487 ,  0.19459234, ..., -0.04013878,
+          -0.04091502, -0.04039376]]]], dtype=float32), array([[[[ 0.01955514,  0.01736715,  0.01438443, ...,  0.        ,
+           0.        ,  0.        ],
+         [ 0.02234195,  0.0196864 ,  0.01629979, ...,  0.        ,
+           0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023fb47b8>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.03571593, -0.03285484, -0.03003456, ...,  0.03699397,
+           0.03703456,  0.03673899],
+         [-0.03896348, -0.0360182 , -0.03296873, ...,  0.04440076,
+           0.04440686,  0.04399085],
+         [-0.03988375, -0.0367155 , -0.03337342, ...,  0.05160666,
+           0.05154029,  0.05095646],
+         ...,
+         [ 0.01012433,  0.01184944,  0.01415047, ..., -0.09326828,
+          -0.09778715, -0.10222892],
+         [ 0.00734264,  0.00941253,  0.01202834, ..., -0.10579149,
+          -0.10943275, -0.11329512],
+         [ 0.00480835,  0.00718812,  0.01012838, ..., -0.1168857 ,
+          -0.12000284, -0.12306001]]]], dtype=float32), array([[[[ 0.03606964,  0.03502756,  0.03369201, ...,  0.08276798,
+           0.08552336,  0.08906884],
+         [ 0.04315669,  0.04195511,  0.04044272, ...,  0.07784393,
+           0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b803186b400>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.]]]], dtype=float32), array([[[[0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.]]]], dtype=float32), array([[[[0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         ...,
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.],
+         [0., 0., 0., ..., 0., 0., 0.]]]], dtype=float32)], [array([[[[ 0.       
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b80318dd598>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.03932658, -0.04108468, -0.04305244, ...,  0.37362152,
+           0.39955384,  0.42678273],
+         [-0.03289682, -0.03412127, -0.03548613, ...,  0.37628376,
+           0.40326533,  0.4310717 ],
+         [-0.02687556, -0.02760429, -0.02838313, ...,  0.37913707,
+           0.40686178,  0.43488103],
+         ...,
+         [ 0.02812864,  0.04603191,  0.06386466, ...,  0.13710487,
+           0.13190138,  0.12638609],
+         [ 0.02065769,  0.03864513,  0.05686112, ...,  0.12977739,
+           0.12484045,  0.11954296],
+         [ 0.01482584,  0.03084722,  0.04925352, ...,  0.1235657 ,
+           0.11883449,  0.11373284]]]], dtype=float32), array([[[[ 0.45388877,  0.47895712,  0.49968264, ..., -0.22841585,
+          -0.244897  , -0.23897883],
+         [ 0.457983  ,  0.48189807,  0.5006075 , ..., -0.23472589,
+          -0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023bd40d0>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         ...,
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.]]]]), array([[[[1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         ...,
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.]]]]), array([[[[1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         ...,
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ..., 1., 1., 1.]]]])], [array([[[[1., 1., 1., ..., 1., 1., 1.],
+         [1., 1., 1., ...
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - WARNING -  Compute Failed
+Function:  execute_task
+args:      ((subgraph_callable, (subgraph_callable, (<built-in function getitem>, (<function concatenate3 at 0x2b8023d72158>, (<function concrete at 0x2b7fa5c0ba60>, [[[[array([[[[-0.12740639, -0.12419362, -0.11881274, ...,  0.09178791,
+           0.10836449,  0.11357392],
+         [-0.12654467, -0.1225723 , -0.11685619, ...,  0.09750839,
+           0.10850686,  0.10987775],
+         [-0.1253894 , -0.12082203, -0.11494893, ...,  0.098319  ,
+           0.10712314,  0.10981411],
+         ...,
+         [-0.03748597, -0.03682657, -0.03895151, ...,  0.00651209,
+          -0.00502703, -0.02164905],
+         [-0.03524505, -0.03420242, -0.03619965, ...,  0.01541801,
+           0.00607077, -0.00443858],
+         [-0.03396042, -0.0325479 , -0.03430693, ...,  0.02274291,
+           0.01561479,  0.00970542]]]], dtype=float32), array([[[[ 0.10598635,  0.09237492,  0.07749654, ...,  0.01248856,
+           0.02189727,  0.02904869],
+         [ 0.10225832,  0.07594803,  0.05292183, ...,  0.01388015,
+           0.
+kwargs:    {}
+Exception: TimeoutError('Timeout')
+
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:40264
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.157:34136 remote=tcp://172.30.100.1:40264>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.157:34036 remote=tcp://172.30.100.1:40264>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.157:34200 remote=tcp://172.30.100.1:40264>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.157:33980 remote=tcp://172.30.100.1:40264>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.157:33984 remote=tcp://172.30.100.1:40264>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.6.157:34138 remote=tcp://172.30.100.1:40264>
+distributed.worker - INFO - Timed out when connecting to scheduler
+distributed.worker - INFO - Stopping worker at tcp://172.30.6.157:43202
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.6.157:41187'
+distributed.dask_worker - INFO - End worker
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-6, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-26, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-2, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-22, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-10, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-1, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-14, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-19, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-5, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-9, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-21, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-25, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-17, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-13, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-8, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-28, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-4, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-24, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-16, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-12, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-7, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-27, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-20, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-3, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-23, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-15, started daemon)>
+distributed.process - WARNING - reaping stray process <ForkServerProcess(ForkServerProcess-11, started daemon)>
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,

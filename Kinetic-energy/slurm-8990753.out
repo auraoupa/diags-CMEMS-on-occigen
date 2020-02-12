@@ -1,0 +1,1286 @@
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:43037'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:33627'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:45714'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:39979'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:41467'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:36486'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:45084'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:37095'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:44226'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:42713'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:46051'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:34484'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:38447'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:38311'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:46409'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:38527'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:43585'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:43302'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:39760'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:33866'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:45096'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:34529'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:45963'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:43361'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:44547'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:34852'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:42325'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://172.30.8.196:41379'
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:33443
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:33443
+distributed.worker - INFO -              nanny at:         172.30.8.196:45714
+distributed.worker - INFO -              bokeh at:         172.30.8.196:43671
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zm_mq26f
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:44671
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:44671
+distributed.worker - INFO -              nanny at:         172.30.8.196:36486
+distributed.worker - INFO -              bokeh at:         172.30.8.196:46737
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3araqa0t
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:38355
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:38355
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:33301
+distributed.worker - INFO -              nanny at:         172.30.8.196:41467
+distributed.worker - INFO -              bokeh at:         172.30.8.196:44257
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:33301
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -              nanny at:         172.30.8.196:45963
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -              bokeh at:         172.30.8.196:41783
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-u6ik7ir1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4dqow53c
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:45473
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:45473
+distributed.worker - INFO -              nanny at:         172.30.8.196:34529
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:32896
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:32896
+distributed.worker - INFO -              bokeh at:         172.30.8.196:35010
+distributed.worker - INFO -              nanny at:         172.30.8.196:46051
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -              bokeh at:         172.30.8.196:35679
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jabraqdd
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6p9uudek
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:34599
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:34599
+distributed.worker - INFO -              nanny at:         172.30.8.196:38311
+distributed.worker - INFO -              bokeh at:         172.30.8.196:40019
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-z1geh6yw
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:44438
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:44438
+distributed.worker - INFO -              nanny at:         172.30.8.196:43037
+distributed.worker - INFO -              bokeh at:         172.30.8.196:36084
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-pnyl8pkq
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:38122
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:38122
+distributed.worker - INFO -              nanny at:         172.30.8.196:38527
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:38603
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:38603
+distributed.worker - INFO -              bokeh at:         172.30.8.196:34506
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:43286
+distributed.worker - INFO -              nanny at:         172.30.8.196:43302
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -              bokeh at:         172.30.8.196:33639
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:43286
+distributed.worker - INFO -              nanny at:         172.30.8.196:34484
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -              bokeh at:         172.30.8.196:44464
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-w4j1ybzz
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-krfz15pj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-yghk9pwy
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:46397
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:46397
+distributed.worker - INFO -              nanny at:         172.30.8.196:39979
+distributed.worker - INFO -              bokeh at:         172.30.8.196:46296
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3n4p53gs
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:43035
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:43035
+distributed.worker - INFO -              nanny at:         172.30.8.196:44226
+distributed.worker - INFO -              bokeh at:         172.30.8.196:45715
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-h56ykqep
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:39257
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:39257
+distributed.worker - INFO -              nanny at:         172.30.8.196:44547
+distributed.worker - INFO -              bokeh at:         172.30.8.196:43234
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-34oi7f6n
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:45027
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:45027
+distributed.worker - INFO -              nanny at:         172.30.8.196:33627
+distributed.worker - INFO -              bokeh at:         172.30.8.196:43794
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2_sydu3m
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:34962
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:46053
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:34962
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:36475
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:46053
+distributed.worker - INFO -              nanny at:         172.30.8.196:39760
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:36475
+distributed.worker - INFO -              nanny at:         172.30.8.196:46409
+distributed.worker - INFO -              bokeh at:         172.30.8.196:36016
+distributed.worker - INFO -              nanny at:         172.30.8.196:45096
+distributed.worker - INFO -              bokeh at:         172.30.8.196:34787
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -              bokeh at:         172.30.8.196:34676
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-wnpnkdr1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-185w4lm2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3cdokww5
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:45203
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:45203
+distributed.worker - INFO -              nanny at:         172.30.8.196:37095
+distributed.worker - INFO -              bokeh at:         172.30.8.196:40351
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:43170
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-6lyyh7nx
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:43170
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -              nanny at:         172.30.8.196:34852
+distributed.worker - INFO -              bokeh at:         172.30.8.196:33223
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-4qttqj4u
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:44738
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:44738
+distributed.worker - INFO -              nanny at:         172.30.8.196:42713
+distributed.worker - INFO -              bokeh at:         172.30.8.196:41103
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-9y2bfhmh
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:45622
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:45622
+distributed.worker - INFO -              nanny at:         172.30.8.196:43361
+distributed.worker - INFO -              bokeh at:         172.30.8.196:44331
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-jtfsd2g8
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:36694
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:36694
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -              nanny at:         172.30.8.196:42325
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -              bokeh at:         172.30.8.196:40387
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -               Threads:                          1
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-5ysx_ai6
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:38042
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:38042
+distributed.worker - INFO -              nanny at:         172.30.8.196:43585
+distributed.worker - INFO -              bokeh at:         172.30.8.196:35329
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:37176
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-k2yq9y2q
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:37176
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -              nanny at:         172.30.8.196:38447
+distributed.worker - INFO -              bokeh at:         172.30.8.196:36685
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-3iwk8kcn
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:40674
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:40674
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -              nanny at:         172.30.8.196:41379
+distributed.worker - INFO -              bokeh at:         172.30.8.196:32799
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-zpax8gu_
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:40795
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:40795
+distributed.worker - INFO -              nanny at:         172.30.8.196:45084
+distributed.worker - INFO -              bokeh at:         172.30.8.196:36763
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-kscyubfn
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,
+distributed.worker - INFO -       Start worker at:   tcp://172.30.8.196:46329
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -          Listening to:   tcp://172.30.8.196:46329
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO -              nanny at:         172.30.8.196:33866
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -              bokeh at:         172.30.8.196:36835
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          1
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -                Memory:                    4.29 GB
+distributed.worker - INFO -       Local Directory: /scratch/cnt0024/hmg2840/albert7a/daskjobqueue/worker-2bxx9hm2
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48826 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49080 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49082 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49100 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48668 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49106 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48674 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48828 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49104 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49092 remote=tcp://172.30.100.1:42394>
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b431e2bc208>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:42394' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 748, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 736, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 864, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:42394' after 10 s: connect() didn't finish in time
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b431e2bc208>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:42394' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 748, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 736, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 864, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:42394' after 10 s: connect() didn't finish in time
+tornado.application - ERROR - Exception in callback functools.partial(<bound method IOLoop._discard_future_result of <tornado.platform.asyncio.AsyncIOLoop object at 0x2b431e2bc208>>, <Future finished exception=OSError("Timed out trying to connect to 'tcp://172.30.100.1:42394' after 10 s: connect() didn't finish in time")>)
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 218, in connect
+    quiet_exceptions=EnvironmentError,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+tornado.util.TimeoutError: Timeout
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 743, in _run_callback
+    ret = callback()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/ioloop.py", line 767, in _discard_future_result
+    future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/worker.py", line 748, in heartbeat
+    address=self.contact_address, now=time(), metrics=self.get_metrics()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 736, in send_recv_from_rpc
+    comm = yield self.pool.connect(self.addr)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/core.py", line 864, in connect
+    connection_args=self.connection_args,
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 735, in run
+    value = future.result()
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 742, in run
+    yielded = self.gen.throw(*exc_info)  # type: ignore
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 230, in connect
+    _raise(error)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/comm/core.py", line 207, in _raise
+    raise IOError(msg)
+OSError: Timed out trying to connect to 'tcp://172.30.100.1:42394' after 10 s: connect() didn't finish in time
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49096 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48666 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48974 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48902 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48958 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49078 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49088 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48676 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49124 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49098 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49316 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49110 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49320 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49228 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49074 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48656 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49708 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49760 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49658 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49706 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48670 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49302 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49694 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48774 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50040 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49710 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49764 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49822 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50046 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50064 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50060 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50062 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50096 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50100 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50160 remote=tcp://172.30.100.1:42394>
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/array/numpy_compat.py:28: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50152 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50204 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50086 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49342 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50270 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49436 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48904 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49754 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50212 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50266 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50272 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50026 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50074 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49488 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50112 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49542 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49598 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49604 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49656 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49704 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49808 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49864 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49600 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50214 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50268 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50028 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49490 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49544 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49608 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49756 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49810 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49866 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49970 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48970 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49294 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49874 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50166 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50278 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49348 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50334 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50390 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49442 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49498 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49552 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50222 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49616 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49762 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49818 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49924 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49546 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50216 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49606 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49812 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49868 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50950 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51000 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50952 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51002 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50990 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50966 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50946 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50996 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50992 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51010 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51008 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51042 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51092 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48790 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49290 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50274 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50032 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49344 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50330 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50386 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50050 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49438 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50076 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49494 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50114 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49548 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50164 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50218 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49612 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49758 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49814 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49870 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49920 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51120 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50742 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51232 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50818 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50862 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51654 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49596 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50158 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49182 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50210 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49968 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49284 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50024 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49338 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49432 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50072 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49486 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49610 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49654 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49702 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49752 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49806 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49862 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49918 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51168 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51326 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50908 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50958 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51060 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51114 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51274 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50088 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49986 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50290 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49358 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49414 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50054 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49450 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49518 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50128 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49568 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49668 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49716 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49776 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49832 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49886 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51026 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51078 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51196 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50786 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50828 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50872 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50928 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50974 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51130 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50004 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50296 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49370 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50362 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49418 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49468 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49520 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50140 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50192 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49682 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49728 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49786 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49840 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49896 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50248 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51040 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51096 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50734 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51208 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50798 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50842 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50892 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50944 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51146 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48972 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49350 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48744 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49876 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49086 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49298 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49396 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49502 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50118 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49554 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50170 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50224 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49618 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49660 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49926 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51128 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51238 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50870 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50920 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50970 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51020 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48760 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50094 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50000 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50292 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49373 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49410 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49462 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49522 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49562 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50188 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49684 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49736 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49784 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49842 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49894 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50242 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51038 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51094 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50796 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51198 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50836 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50886 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50936 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50986 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51148 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51738 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51784 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51832 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51934 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51696 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48776 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48950 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49960 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49172 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49274 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50016 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49328 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50368 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49424 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49476 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50202 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49796 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49908 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50106 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50256 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51050 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51104 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50738 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50770 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50808 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50852 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50900 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51796 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51846 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51900 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51684 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51704 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51748 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:48742 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49712 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49766 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49820 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49878 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49084 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49296 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50282 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49500 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50116 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49556 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50168 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50226 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49620 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49662 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49928 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51018 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51126 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51240 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50822 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50868 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50918 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50968 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51814 remote=tcp://172.30.100.1:42394>
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/array/numpy_compat.py:28: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/array/numpy_compat.py:28: RuntimeWarning: invalid value encountered in true_divide
+  x = np.divide(x1, x2, out)
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - Connection to scheduler broken.  Reconnecting...
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49988 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50284 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49360 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49404 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49454 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49506 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50122 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49566 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49664 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49768 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49846 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49884 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:49932 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51032 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51190 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51244 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50874 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50924 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:50978 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51076 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51132 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51772 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51822 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51924 remote=tcp://172.30.100.1:42394>
+distributed.comm.tcp - WARNING - Closing dangling stream in <TCP  local=tcp://172.30.8.196:51726 remote=tcp://172.30.100.1:42394>
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.client - ERROR - Failed to reconnect to scheduler after 3.00 seconds, closing client
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Waiting to connect to:   tcp://172.30.100.1:42394
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:33301
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:37176
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:46329
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:36475
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:33443
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:45203
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:39257
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:44738
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:46397
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:38042
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:43286
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:46053
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:43035
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:44438
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:34599
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:45027
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:45473
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:38603
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:38355
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:45622
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:43170
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:40674
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:36694
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:32896
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:40795
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:44671
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:38122
+distributed.worker - INFO - Stopping worker at tcp://172.30.8.196:34962
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:46409'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:45714'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:45963'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:45096'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:38447'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:33866'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:44547'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:34852'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:43585'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:39760'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:39979'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:37095'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:36486'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:43037'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:38311'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:45084'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:34529'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:34484'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:42325'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:41467'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:43302'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:42713'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:43361'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:44226'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:38527'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:41379'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:33627'
+distributed.nanny - INFO - Closing Nanny at 'tcp://172.30.8.196:46051'
+distributed.dask_worker - INFO - End worker
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/dask/config.py:168: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  data = yaml.load(f.read()) or {}
+/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/distributed/utils.py:136: RuntimeWarning: Couldn't detect a suitable IP address for reaching '8.8.8.8', defaulting to '127.0.0.1': [Errno 101] Network is unreachable
+  RuntimeWarning,

@@ -1,0 +1,494 @@
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 148, in model_mean_percent_profile
+    model_level[z]=lev[0]
+ValueError: setting an array element with a sequence.
+script/EU36-MPC001-9_script.ksh : ligne 3 :  4373 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_9_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-102_script.ksh : ligne 3 : 37503 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_102_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-100_script.ksh : ligne 3 :  9379 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_100_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-124_script.ksh : ligne 3 :  9377 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_124_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-93_script.ksh : ligne 3 :  4358 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_93_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-67_script.ksh : ligne 3 : 45028 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_67_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-96_script.ksh : ligne 3 : 37504 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_96_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-38_script.ksh : ligne 3 : 26777 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_38_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-70_script.ksh : ligne 3 :  9381 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_70_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-22_script.ksh : ligne 3 :  9375 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_22_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-114_script.ksh : ligne 3 : 37493 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_114_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-94_script.ksh : ligne 3 :  9391 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_94_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-45_script.ksh : ligne 3 :  4363 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_45_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-48_script.ksh : ligne 3 : 37496 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_48_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-10_script.ksh : ligne 3 :  9376 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_10_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-26_script.ksh : ligne 3 : 26770 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_26_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+script/EU36-MPC001-44_script.ksh : ligne 3 : 26776 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_44_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-98_script.ksh : ligne 3 : 26761 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_98_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+script/EU36-MPC001-65_script.ksh : ligne 3 : 51953 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_65_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+script/EU36-MPC001-47_script.ksh : ligne 3 : 51946 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_47_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+script/EU36-MPC001-32_script.ksh : ligne 3 : 26760 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_32_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-31_script.ksh : ligne 3 : 45027 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_31_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+script/EU36-MPC001-25_script.ksh : ligne 3 : 45026 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_25_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+script/EU36-MPC001-86_script.ksh : ligne 3 : 26768 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_86_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 148, in model_mean_percent_profile
+    model_level[z]=lev[0]
+ValueError: setting an array element with a sequence.
+script/EU36-MPC001-76_script.ksh : ligne 3 :  9388 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_76_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+script/EU36-MPC001-81_script.ksh : ligne 3 :  4372 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_81_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+script/EU36-MPC001-103_script.ksh : ligne 3 : 45023 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_103_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-27_script.ksh : ligne 3 :  4355 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_27_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 417, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 402, in main
+    process(jsonfile,infos,prof,dsN,latN,lonN,timN,config,case,namezone)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 52, in process
+    profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 239, in model_mean_percent_profile
+    lat_near_observation,lon_near_observation,temp_model_mean,temp_percentile_10,temp_percentile_90,salt_model_mean,salt_percentile_10,salt_percentile_90=profile_mean_percent(int(model_level[int(z)]))
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 222, in profile_mean_percent
+    temp_percentile_10= np.percentile(model_temp_dask_concat,10)
+  File "<__array_function__ internals>", line 6, in percentile
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3713, in percentile
+    a, q, axis, out, overwrite_input, interpolation, keepdims)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3833, in _quantile_unchecked
+    interpolation=interpolation)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3410, in _ureduce
+    r = func(a, **kwargs)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/lib/function_base.py", line 3948, in _quantile_ureduce_func
+    x1 = take(ap, indices_below, axis=axis) * weights_below
+  File "<__array_function__ internals>", line 6, in take
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 194, in take
+    return _wrapfunc(a, 'take', indices, axis=axis, out=out, mode=mode)
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/numpy/core/fromnumeric.py", line 61, in _wrapfunc
+    return bound(*args, **kwds)
+IndexError: cannot do a non-empty take from an empty axes.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 9557675 ON n2243 CANCELLED AT 2020-02-06T16:53:06 DUE TO TIME LIMIT ***
+slurmstepd: error: *** STEP 9557675.0 ON n2243 CANCELLED AT 2020-02-06T16:53:06 DUE TO TIME LIMIT ***
+slurmstepd: error: Exceeded job memory limit at some point.

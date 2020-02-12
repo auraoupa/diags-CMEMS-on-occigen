@@ -1,0 +1,22 @@
+slurmstepd: error: Step 9557669.0 exceeded memory limit (120898496 > 120832000), being killed
+script/EU36-MPC001-118_script.ksh : ligne 3 :  5030 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_118_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-113_script.ksh : ligne 3 : 45878 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_113_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-111_script.ksh : ligne 3 :  2173 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_111_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+script/EU36-MPC001-102_script.ksh : ligne 3 : 52042 Processus arrêté      python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py --jsonfile '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_102_new.json' --dir '/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/EU36-MPC001/' --conf 'EU36' --case 'MPC001' --nz 'NATL60-CJM165_EU_y2012-2013'
+slurmstepd: error: *** STEP 9557669.0 ON n2458 CANCELLED AT 2020-02-06T09:52:57 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: Exceeded job memory limit
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+slurmstepd: error: Exceeded step memory limit at some point.
+slurmstepd: error: Exceeded job memory limit at some point.
+srun: error: n2459: tasks 1,7,13,19,25,31,37,43,49,55,61,67,73,79,85,91,97,103,109,115,121: Out Of Memory
+srun: Terminating job step 9557669.0
+slurmstepd: error: Exceeded job memory limit at some point.

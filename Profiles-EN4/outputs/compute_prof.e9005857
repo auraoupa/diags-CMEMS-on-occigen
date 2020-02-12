@@ -1,0 +1,913 @@
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+Traceback (most recent call last):
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 401, in <module>
+    sys.exit(main() or 0)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 377, in main
+    dsN,latN,lonN,timN = open_model(config,case)
+  File "/scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-regional-simus.py", line 61, in open_model
+    dsN = xr.open_mfdataset(tfiles,decode_times=False, chunks={'deptht':1 ,'time_counter':10})
+  File "/scratch/cnt0024/hmg2840/albert7a/anaconda3/lib/python3.7/site-packages/xarray/backends/api.py", line 870, in open_mfdataset
+    raise OSError("no files to open")
+OSError: no files to open
+slurmstepd: error: *** JOB 9005857 ON n2296 CANCELLED AT 2020-01-31T04:26:42 DUE TO TIME LIMIT ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 9005857.0 ON n2296 CANCELLED AT 2020-01-31T04:26:42 DUE TO TIME LIMIT ***
