@@ -34,7 +34,7 @@ import json
 import os
 
 
-def process(jsonfile,infos,prof,dsN,latN,lonN,timN,region,namezone):
+def process(jsonfile,infos,prof,dsN,latN,lonN,timN,namezone):
 	''' Make all the steps needed to create the final netcdf files for one profile
 	'''
 	list_profiles = infos.keys()
@@ -49,7 +49,7 @@ def process(jsonfile,infos,prof,dsN,latN,lonN,timN,region,namezone):
 	check=check_prof_boundaries(dsN,latN,lonN,timN,lat_prof,lon_prof,date_prof)
 	if check == 0.:
 		profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time = model_mean_percent_profile(file_prof,prof_prof,dsN,latN,lonN,timN)
-		create_netcdf_profile(jsonfile,reference,prof_prof,observation_lat,observation_lon,observation_time,profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,region,namezone)
+		create_netcdf_profile(jsonfile,reference,prof_prof,observation_lat,observation_lon,observation_time,profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,namezone)
 
 
 def open_model(region):
@@ -238,14 +238,14 @@ def model_mean_percent_profile(fileEN4,ref_prof,dsN,latN,lonN,timN):
 
 	return profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,observation_lat,observation_lon,observation_time
 
-def create_netcdf_profile(jsonfile,reference,ref_prof,observation_lat,observation_lon,observation_time,profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,region,namezone):
+def create_netcdf_profile(jsonfile,reference,ref_prof,observation_lat,observation_lon,observation_time,profil_temp_model_mean,profil_temp_model_percent10,profil_temp_model_percent90,profil_salt_model_mean,profil_salt_model_percent10,profil_salt_model_percent90,observation_dep,obsred_temp,obsred_salt,dep_level,model_dep,obsred_dep,namezone):
 
 	reference_profile=reference[-16:-1]
-	dirname="/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/"+namezone+"/NATL60-CJM165/"+region
+	dirname="/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/"+namezone+"/NATL60-CJM165/"
 	if not os.path.exists(dirname):
 		os.mkdir(dirname)
     
-	outname="/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/"+namezone+"/NATL60-CJM165/"+region+"/profiles_EN4-"+reference_profile+"_NATL60-CJM165_TS.nc"
+	outname="/scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/"+namezone+"/NATL60-CJM165/profiles_EN4-"+reference_profile+"_NATL60-CJM165_TS.nc"
 	print('output file is '+outname)
 	dsout=Dataset(outname,'w')
 
@@ -388,7 +388,7 @@ def main():
 
 		if not os.path.exists(outname):
 			print(outname+" does not exist; lets process")
-			process(jsonfile,infos,prof,dsN,latN,lonN,timN,region,namezone)
+			process(jsonfile,infos,prof,dsN,latN,lonN,timN,namezone)
 		else:
 			print(outname+" already exists")
 	

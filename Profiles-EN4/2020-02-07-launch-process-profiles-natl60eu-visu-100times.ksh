@@ -1,5 +1,5 @@
-
+reg=$1
 
 for k in $(seq 1 100); do
-	python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-natl60.py --jsonfile /scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_new.json --dir /scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165/EU/ --reg EU --nz NATL60-CJM165_EU_y2012-2013
+	python /scratch/cnt0024/hmg2840/albert7a/DEV/git/diags-CMEMS-on-occigen/Profiles-EN4/2020-01-29-AA-process-profiles-natl60.py --jsonfile /scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165_EU_y2012-2013_final.json --dir /scratch/cnt0024/hmg2840/albert7a/EN4/profiles_files/NATL60-CJM165_EU_y2012-2013/NATL60-CJM165/ --reg $reg --nz NATL60-CJM165_EU_y2012-2013
 done
